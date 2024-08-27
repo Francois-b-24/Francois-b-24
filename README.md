@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BOUSSENGUI François</h1>
 <h3 align="center">A passionate economist in fields in IA, Machine Learning</h3>
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" height="auto">
+<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="800" height="auto">
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francois-b-24&label=Profile%20views&color=0e75b6&style=flat" alt="francois-b-24" /> </p>

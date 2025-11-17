@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm BOUSSENGUI François</h1>
-<h3 align="center">A passionate economist in IA, Machine Learning</h3>
+<h1 align="center">Hi 👋, I'm François</h1>
+<h3 align="center">A passionate economist who loves IA & Machine Learning</h3>
 
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300">
 
